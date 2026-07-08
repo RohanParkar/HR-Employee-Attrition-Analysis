@@ -20,7 +20,7 @@ dataset to answer:
 ---
 
 ## Dashboard Preview
-📄 [View Full Dashboard PDF](HR_Employee_Attrition_Analysis.pdf)
+📄 [View Full Dashboard PDF](HR_Employee_Attrition_Analysis_PowerBI_Dashboard.pdf)
 
 > The dashboard includes 3 pages — Executive Summary, Deep Dive Analysis,  
 > and Department Drill Through with drill-through, tooltips, and dynamic slicers.
